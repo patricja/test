@@ -1,3 +1,3 @@
 Wolf
 ====
-Antother project in the course PHP-MVC.
+Another project in the course PHP-MVC.
